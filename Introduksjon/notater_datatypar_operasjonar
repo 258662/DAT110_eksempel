@@ -1,0 +1,11 @@
+Datatyper
+    -int:heiltal
+    -float:desimalal (flyttal)
+    -str:tekststreng
+
+operasjoner:
+    +,-,* på tal gjev heiltal viss begge tala er heiltal,ellers flytal
+    / gjev alltidflyttal
+    // heiltal (runder alltid ned)
+    % Modulo=resten etter heiltalsdivisjon
+    ** opphøying: 2**3 = 2 opphøyd i 3
